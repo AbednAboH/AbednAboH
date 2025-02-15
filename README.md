@@ -5,9 +5,12 @@
 - I'm a standup guy that loves to learn new technologies ,loves to debug and understand code in depth before making any adjustments to it. 
 - I'm currently searching for a new challenge that would take me to a new level.
 - i have done some projects using python , c++,opencv ,JavaScrip,HTML and java ,including a fully autonomus parking lot ,AI labs.
-## My Projects
+## My AI Based Projects
 
 👉 [Co-Evolutionary Genetic Algorithm](https://github.com/AbednAboH/CoEvolution-GA-RPS-agents.git) that enhance the performance of RPS strategies by minimizing predictability and maximizing win rates against a variety of opponents.
+👉 [Memetic Algorithm Optimization Project](https://github.com/AbednAboH/Memetic-Algorithm-.git) which implements a Memetic Algorithm (MA) in Python, combining global search strategies of Genetic Algorithms (GAs) with local optimization techniques. 
+👉 [Co-Evolutionary Genetic algorithm Based applied to sorting networks](https://github.com/AbednAboH/co-evolutionary-GA-sortingNetworks.git) that evolves efficient sorting networks with minimized comparator usage while simultaneously adapting problem sets to enhance the networks' robustness.
+
 
   
 <!---
